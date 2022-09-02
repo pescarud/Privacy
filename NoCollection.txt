@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 Last updated: September 02, 2022
 
 PEDAS Software does not collect any data from your device, the app does not send any data online.
